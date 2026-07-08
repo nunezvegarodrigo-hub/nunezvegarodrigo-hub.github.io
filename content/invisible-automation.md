@@ -4,7 +4,6 @@ tags:
   - invisible-automation
 ---
 
-# Invisible Automation
 
 For fifteen years, legal tech has asked the wrong question. How do we get lawyers to use this tool? We built training. We ran change management. We sent reminders. And adoption still stalled.
 

@@ -4,7 +4,6 @@ tags:
   - growth
 ---
 
-# Growth and Career
 
 Working hard in silence sounds noble. It is not a strategy. Your internal brand is already speaking, whether you built it on purpose or not. The only question is whether it says the right thing.
 

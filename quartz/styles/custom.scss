@@ -1,3 +1,102 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// ======================================================
+//  Rodrigo Nuñez — brand theme (Slate + Teal) on top of Quartz
+// ======================================================
+
+// ---------- global polish (all pages) ----------
+.center {
+  & h1, & h2, & h3 { font-weight: 600; letter-spacing: -0.01em; }
+  & h2 {
+    border-bottom: 2px solid var(--lightgray);
+    padding-bottom: 0.3rem;
+    margin-top: 2rem;
+  }
+  & blockquote {
+    border-left: 3px solid var(--secondary);
+    background: var(--highlight);
+    border-radius: 0 8px 8px 0;
+  }
+}
+
+// bigger, more prominent graph
+.graph .graph-outer { height: 400px; }
+
+// ---------- landing (home only) ----------
+body[data-slug="index"] {
+  .article-title,
+  .content-meta,
+  .breadcrumb-container,
+  .page-header hr { display: none; }
+}
+
+.landing-hero {
+  border-radius: 14px;
+  overflow: hidden;
+  background: #13202A url("/static/hero-bg.png") right center / cover no-repeat;
+  margin: 0 0 1.6rem;
+}
+.landing-hero__inner { padding: 3rem 2.2rem; max-width: 580px; }
+.hero-eyebrow {
+  color: #5EEAD4; text-transform: uppercase; letter-spacing: 1.5px;
+  font-size: 0.74rem; margin: 0 0 0.7rem; font-weight: 500;
+}
+.hero-name { color: #ffffff; font-size: 2.7rem; line-height: 1.06; margin: 0; font-weight: 600; }
+.hero-tagline { color: #C6D0D6; font-size: 1.06rem; line-height: 1.6; margin: 1rem 0 1.6rem; }
+.hero-cta { display: flex; gap: 0.7rem; flex-wrap: wrap; }
+a.btn {
+  display: inline-block; padding: 0.62rem 1.2rem; border-radius: 8px;
+  font-size: 0.92rem; font-weight: 500; text-decoration: none; transition: 0.15s;
+  background-image: none;
+}
+a.btn.btn--primary { background: #2DD4BF; color: #06312E; font-weight: 600; }
+a.btn.btn--primary:hover { background: #5EEAD4; color: #06312E; }
+a.btn.btn--ghost { border: 1px solid #2DD4BF; color: #2DD4BF; background: transparent; }
+a.btn.btn--ghost:hover { background: rgba(45, 212, 191, 0.12); }
+
+// flagship band
+a.flagship-band {
+  display: flex; align-items: center; gap: 0.85rem; flex-wrap: wrap;
+  background: #0C5F5C; color: #ffffff; background-image: none;
+  padding: 0.95rem 1.2rem; border-radius: 10px; text-decoration: none; margin: 0 0 2rem;
+  transition: 0.15s;
+}
+a.flagship-band:hover { background: #0E7C7B; }
+.flagship-band__eye {
+  font-size: 0.66rem; text-transform: uppercase; letter-spacing: 1px;
+  background: rgba(255, 255, 255, 0.16); padding: 0.24rem 0.6rem; border-radius: 5px; color: #EAF7F4;
+}
+.flagship-band__title { font-weight: 600; color: #ffffff; }
+.flagship-band__desc { color: #CFEAE7; font-size: 0.92rem; }
+.flagship-band__arrow { margin-left: auto; font-size: 1.25rem; color: #EAF7F4; }
+
+.section-title { font-size: 1.15rem; margin: 0 0 1rem; }
+
+// theme cards
+.theme-grid {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 12px; margin: 0 0 2rem;
+}
+a.theme-card {
+  display: flex; flex-direction: column; gap: 0.25rem;
+  padding: 0.9rem 1rem; background: var(--lightgray); background-image: none;
+  border-top: 3px solid var(--secondary); border-radius: 10px;
+  text-decoration: none; transition: 0.15s;
+}
+a.theme-card:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08); background: var(--lightgray); }
+.theme-card__title { font-weight: 600; color: var(--dark); }
+.theme-card__desc { font-size: 0.85rem; color: var(--gray); }
+a.theme-card--flag { border-top-color: var(--tertiary); }
+.home-foot { color: var(--gray); font-size: 0.95rem; }
+
+// ---------- About photo ----------
+.about-hero { float: right; margin: 0.2rem 0 1rem 1.6rem; text-align: center; }
+.about-hero__photo {
+  width: 172px; height: 172px; border-radius: 50%; object-fit: cover;
+  border: 3px solid var(--secondary); display: block;
+}
+@media (max-width: 600px) {
+  .about-hero { float: none; margin: 0 auto 1.2rem; }
+  .hero-name { font-size: 2.1rem; }
+  .landing-hero__inner { padding: 2.2rem 1.4rem; }
+}

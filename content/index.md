@@ -2,27 +2,34 @@
 title: Rodrigo Nuñez
 ---
 
-# Rodrigo Nuñez
+<section class="landing-hero">
+  <div class="landing-hero__inner">
+    <p class="hero-eyebrow">Legal Ops · AI · Invisible Automation</p>
+    <h1 class="hero-name">Rodrigo Nuñez</h1>
+    <p class="hero-tagline">The best legal tech is the one lawyers never see. I write about making legal work faster, clearer, and invisible.</p>
+    <div class="hero-cta">
+      <a class="btn btn--primary" href="/invisible-automation">The flagship</a>
+      <a class="btn btn--ghost" href="/about">About me</a>
+    </div>
+  </div>
+</section>
 
-I lead legal operations, and I write about making legal work faster, clearer, and less dependent on tools nobody uses.
+<a class="flagship-band" href="/invisible-automation">
+  <span class="flagship-band__eye">The flagship</span>
+  <span class="flagship-band__title">Invisible Automation</span>
+  <span class="flagship-band__desc">Legal AI that comes to people, so they change nothing.</span>
+  <span class="flagship-band__arrow">→</span>
+</a>
 
-Most legal tech fails for the same reason. It asks lawyers to change how they work. My thesis runs the other way. The technology should adapt to the lawyer, capture what already happens, and turn it into data and decisions. The best system is the one people never notice.
+<h2 class="section-title">Explore by theme</h2>
 
-This site is not a list of posts. It is a map of how these ideas connect. Start with the flagship, or pick a theme.
+<div class="theme-grid">
+  <a class="theme-card" href="/legal-ops"><span class="theme-card__title">Legal Ops</span><span class="theme-card__desc">Fewer tools, more system.</span></a>
+  <a class="theme-card" href="/data-and-decisions"><span class="theme-card__title">Data &amp; Decisions</span><span class="theme-card__desc">Measure what matters.</span></a>
+  <a class="theme-card" href="/transformation"><span class="theme-card__title">Transformation</span><span class="theme-card__desc">Standardize, then automate.</span></a>
+  <a class="theme-card" href="/leadership"><span class="theme-card__title">Leadership</span><span class="theme-card__desc">Break silos with habits.</span></a>
+  <a class="theme-card" href="/growth"><span class="theme-card__title">Growth</span><span class="theme-card__desc">Make your impact known.</span></a>
+  <a class="theme-card theme-card--flag" href="/invisible-automation"><span class="theme-card__title">Invisible Automation</span><span class="theme-card__desc">Tech that adapts to you.</span></a>
+</div>
 
-## The flagship
-
-[[invisible-automation|Invisible Automation]] is the through line for everything here. Legal AI that comes to people, so they change nothing.
-
-## The themes
-
-- [[invisible-automation|Invisible Automation and AI]]. Legal AI built around how lawyers already work.
-- [[legal-ops|Legal Ops and Legal Tech]]. Fewer tools, more system. Why your CLM is empty and how to fix it.
-- [[data-and-decisions|Data and Decision-Making]]. Measuring what matters, and getting leadership to read it.
-- [[transformation|Transformation and Change]]. Standardize first. Automate second. Culture before code.
-- [[leadership|Leadership and Operations]]. Breaking silos with habits, not speeches.
-- [[growth|Growth and Career]]. Making your impact known without waiting for permission.
-
-## Where I publish
-
-New writing goes out on LinkedIn first, and lands here connected to everything else. This is the home. LinkedIn is the front door.
+<p class="home-foot">New writing goes out on LinkedIn first and lands here, connected to everything else. The map on the right shows how it all links, and it grows as more pieces join.</p>

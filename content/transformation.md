@@ -4,7 +4,6 @@ tags:
   - transformation
 ---
 
-# Transformation and Change
 
 Stop trying to buy your way out of chaos. Standardize first. Measure second. Automate third. Or accept that faster chaos is still chaos.
 

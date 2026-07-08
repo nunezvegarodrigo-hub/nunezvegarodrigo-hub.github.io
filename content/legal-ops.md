@@ -4,7 +4,6 @@ tags:
   - legal-ops
 ---
 
-# Legal Ops and Legal Tech
 
 Six months ago you bought the most complete CLM on the market. Hundreds of fields. Beautiful reports. A flawless demo. Today it is empty. And it is not the software's fault.
 

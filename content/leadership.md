@@ -4,7 +4,6 @@ tags:
   - leadership
 ---
 
-# Leadership and Operations
 
 Silos do not disappear with speeches. They disappear with habits. A leader's real impact shows up in one place. Can they bring people together across departments, or not.
 

@@ -4,7 +4,6 @@ tags:
   - data-and-decisions
 ---
 
-# Data and Decision-Making
 
 "I wish we knew how we compare to other legal departments." Most teams say it. Few can answer it. Not because the data is missing, but because nobody turned it into a decision.
 
