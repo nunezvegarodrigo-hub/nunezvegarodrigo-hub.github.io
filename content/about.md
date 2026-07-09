@@ -48,6 +48,5 @@ Selected coverage from my TuContrato years, when I was building legal tech to pr
 - **El Financiero**, [Protege a tu Pyme con contratos](http://www.elfinanciero.com.mx/pyme/protege-a-tu-pyme-con-contratos.html) (2017)
 - **Revista Consultoría**, [Guía para crecer tu empresa](http://revistaconsultoria.com.mx/guia-para-crecer-tu-empresa/) (2018)
 - **Centro Urbano**, [Pymes ponen poca atención a contratos de arrendamiento](https://centrourbano.com/2018/04/20/pymes-ponen-poca-atencion-contratos-arrendamiento/) (2018)
-- **El Semanario**, [Todo lo que debes saber sobre los contratos si eres una PyME](https://elsemanario.com/negocios/emprendedores/260619/esto-es-todo-lo-que-debes-sobre-los-contratos-si-eres-una-pymes/)
 
 See [[work|what I have built]], or start with [[invisible-automation|the flagship idea]].
