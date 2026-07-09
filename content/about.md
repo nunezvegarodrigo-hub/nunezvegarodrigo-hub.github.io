@@ -40,4 +40,14 @@ But I never forget the other half. Intuition. Dreams. The crazy ideas that look 
 - Master's in Business Intelligence, UNIR Mexico.
 - Bachelor's in Corporate and Business Law, UNAM, Mexico City.
 
+## Press
+
+Selected coverage from my TuContrato years, when I was building legal tech to protect small and mid-size businesses. In Spanish.
+
+- **Forbes México**, [Emprendedor: protege a tu Pyme con contratos](https://www.forbes.com.mx/emprendedor-protege-a-tu-pyme-con-contratos/)
+- **El Financiero**, [Protege a tu Pyme con contratos](http://www.elfinanciero.com.mx/pyme/protege-a-tu-pyme-con-contratos.html) (2017)
+- **Revista Consultoría**, [Guía para crecer tu empresa](http://revistaconsultoria.com.mx/guia-para-crecer-tu-empresa/) (2018)
+- **Centro Urbano**, [Pymes ponen poca atención a contratos de arrendamiento](https://centrourbano.com/2018/04/20/pymes-ponen-poca-atencion-contratos-arrendamiento/) (2018)
+- **El Semanario**, [Todo lo que debes saber sobre los contratos si eres una PyME](https://elsemanario.com/negocios/emprendedores/260619/esto-es-todo-lo-que-debes-sobre-los-contratos-si-eres-una-pymes/)
+
 See [[work|what I have built]], or start with [[invisible-automation|the flagship idea]].
