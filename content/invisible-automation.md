@@ -13,7 +13,9 @@ Invisible Automation flips it. The technology adapts to the lawyer, not the othe
 
 The winning tool is not the one lawyers love. It is the one they never see.
 
-> Featured essay: [[blocking-ai-is-strategic-negligence|Blocking AI at Work Is Not Safety. It's Strategic Negligence.]] Why blocking AI instead of enabling it, with guardrails, is the most expensive kind of caution.
+**Essays**
+- [[the-best-legal-tech-lawyers-never-see|The Best Legal Tech Is the One Lawyers Never See]]. The full case for Invisible Automation: why legal tech keeps failing on adoption, and the three-layer architecture that fixes it.
+- [[blocking-ai-is-strategic-negligence|Blocking AI at Work Is Not Safety. It's Strategic Negligence.]] Why blocking AI instead of enabling it, with guardrails, is the most expensive kind of caution.
 
 ## The three layers
 
