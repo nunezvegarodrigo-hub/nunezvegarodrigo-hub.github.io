@@ -29,6 +29,7 @@ title: Rodrigo Nuñez
   <a class="theme-card" href="/transformation"><span class="theme-card__title">Transformation</span><span class="theme-card__desc">Standardize, then automate.</span></a>
   <a class="theme-card" href="/leadership"><span class="theme-card__title">Leadership</span><span class="theme-card__desc">Break silos with habits.</span></a>
   <a class="theme-card" href="/growth"><span class="theme-card__title">Growth</span><span class="theme-card__desc">Make your impact known.</span></a>
+  <a class="theme-card" href="/risk-compliance"><span class="theme-card__title">Risk &amp; Compliance</span><span class="theme-card__desc">Control by design, not by fear.</span></a>
   <a class="theme-card theme-card--flag" href="/invisible-automation"><span class="theme-card__title">Invisible Automation</span><span class="theme-card__desc">Tech that adapts to you.</span></a>
 </div>
 

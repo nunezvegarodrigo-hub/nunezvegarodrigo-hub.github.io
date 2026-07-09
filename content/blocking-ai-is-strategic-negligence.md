@@ -4,6 +4,7 @@ tags:
   - invisible-automation
   - legal-ops
   - leadership
+  - risk-compliance
 ---
 
 *What happens when companies choose fear over education.*
