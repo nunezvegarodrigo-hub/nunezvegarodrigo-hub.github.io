@@ -9,6 +9,8 @@ Stop trying to buy your way out of chaos. Standardize first. Measure second. Aut
 
 Transformation is cultural before it is technical. Software takes ninety days. Culture takes longer. Most teams get that backwards, buy the tool, and wonder why nothing changed.
 
+> Featured essay: [[legal-tech-is-about-survival|Legal Tech Is Not About Tools. It's About Survival.]] The full framework, from mindset to process to people to AI to the future of legal leadership.
+
 ## Fix the process before the tool
 
 A simple tool with a curious culture will always outperform a perfect tool with a resistant one. The order matters.
