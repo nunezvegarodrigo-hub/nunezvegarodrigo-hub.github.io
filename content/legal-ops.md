@@ -29,10 +29,9 @@ The reason tools sit empty is the same reason [[invisible-automation|Invisible A
 
 ---
 
-Writing on this theme (notes coming from LinkedIn):
-- Your CLM Is Empty. And It's Not the Software's Fault
-- The Legal Tech Stack: Less Is More
-- Moving Beyond Intake to Intelligent Triage
-- Legal Tech Isn't an Expense. It's a Lifeline
-- Legal Tech Is Also a Retention Strategy
-- Running Legal Like a Business
+## Writing on this theme
+
+- [[legal-tech-stack-less-is-more|The Legal Tech Stack: Less Is More]]. A lean stack that works beats a comprehensive one that does not.
+- [[intake-to-intelligent-triage|Moving Beyond Intake to Intelligent Triage]]. The right work on the right desk at the right time.
+- [[legal-playbook-that-gets-used|Designing a Legal Playbook That Actually Gets Used]]. A playbook is not an archive. It is a decision engine.
+- [[vendor-management-legal-competency|Vendor Management as a Legal Competency]]. Strategic infrastructure for risk and leverage.

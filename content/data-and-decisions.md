@@ -29,10 +29,9 @@ This is the proof engine for everything else. [[invisible-automation|Invisible A
 
 ---
 
-Writing on this theme (notes coming from LinkedIn):
-- Building a Legal Dashboard That Leadership Actually Reads
-- Moving Beyond Volume Metrics (Quantity is not Value)
-- Measure What Matters in Legal
-- Data Doesn't Replace Judgment, It Enhances It
-- Presenting Data to Executives
-- Bridging the Decision Gap
+## Writing on this theme
+
+- [[legal-dashboard-leadership-reads|Building a Legal Dashboard That Leadership Actually Reads]]. Speak the business language: speed, cost, risk, capacity.
+- [[beyond-volume-metrics|Moving Beyond Volume Metrics: Quantity Is Not Value]]. Volume metrics make you feel busy. They do not tell you if you are improving.
+- [[benchmarking-legal-performance|Benchmarking Legal Performance Without Losing Your Mind]]. The goal is not to win. It is to get less bad, consistently.
+- [[predict-legal-work-with-data|Using Data to Predict Legal Work Before It Arrives]]. Reactive teams respond to demand. Predictive teams shape it.
